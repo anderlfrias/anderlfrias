@@ -1,7 +1,4 @@
-Hola 👋, Soy 
-# Anderson Frias
-## Desarrollador de Software Profesional 
-
+Hola 👋
 <!--
 **anderlfrias/anderlfrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
