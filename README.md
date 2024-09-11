@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 📫 Get in Touch
 
 - **Email**: [anderlfrias@gmail.com](mailto:anderlfrias@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/anderlfrias/)
+- **LinkedIn**: [anderlfrias](https://www.linkedin.com/in/anderlfrias/)
 
 ## 💼 Open to Opportunities
 
