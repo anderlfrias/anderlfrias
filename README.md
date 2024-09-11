@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 💼 Open to Opportunities
 
-I'm open to exciting freelance projects, collaborations, or full-time opportunities, especially in the healthcare software domain. Let's connect if you believe we can make a difference together!
+I’m always open to interesting freelance projects, collaborations, or full-time opportunities where I can contribute my skills and grow professionally. If you think we can create something amazing together, don’t hesitate to reach out!
 
 <!--
 **anderlfrias/anderlfrias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
