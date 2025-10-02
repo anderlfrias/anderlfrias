@@ -5,23 +5,23 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 🚀 About Me
 
 - 💼 **Current Work**: I'm a developer at **Centro Medico Docente Siglo 21**, where I contribute to healthcare software solutions. Additionally, I work on freelance projects, bringing innovative ideas to life.
-- 🌱 **Learning**: I’m actively learning **PHP** and **Python**, with a growing interest in **Machine Learning**.
-- 🔧 **Technologies**: Proficient in JavaScript/TypeScript, React, Next.js, Sails.js, .NET (not my expertise), and experienced with databases like MySQL, MariaDB, MongoDB and MS SQL Server.
+- 🌱 **Learning**: I’m actively learning **Python**, with a growing interest in **Machine Learning** and **Data Science**.
+- 🔧 **Technologies**: Proficient in JavaScript/TypeScript, React, Next.js, Sails.js, .NET (not my expertise), and experienced with databases like MySQL, MariaDB, MongoDB, PostgreSQL and MS SQL Server.
 - 💡 **Interests**: I’m passionate about creating innovative solutions that help companies streamline their processes, making them more efficient and less burdensome. My goal is to deliver software that not only meets business needs but also enhances productivity and reduces operational pain points.
 
 ## 🛠️ My Skills
 
 - **Frontend**: React, Next.js, Tailwind CSS, HTML5, CSS3
-- **Backend**: Node.js, Sails.js, .NET
-- **Database**: MS SQL Server, MySQL, MongoDB
-- **DevOps**: Docker, Git, CI/CD, Jira
+- **Backend**: Node.js, Sails.js, Express.js, .NET
+- **Database**: MySQL, MariaDB, MongoDB, PostgreSQL, MS SQL Server
+- **DevOps**: Docker, Git, CI/CD, Trello, Jira
 - **Other**: Agile methodologies, API development, GitHub Actions
 
 ## 📈 What I'm Working On
 
 - 🔄 **Healthcare Software**: Developing and enhancing software solutions at Centro Medico Docente Siglo 21 to improve healthcare services.
 - 📱 **Freelance Projects**: Collaborating with clients on various projects, including billing and inventory management systems.
-- 🔍 **Learning Path**: Expanding my knowledge in **PHP** and diving into **Machine Learning with Python**.
+- 🔍 **Learning Path**: Expanding my knowledge in **Machine Learning and Data Science  with Python**.
 
 ## 📫 Get in Touch
 
