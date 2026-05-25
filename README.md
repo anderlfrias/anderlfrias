@@ -7,9 +7,9 @@ Currently working at **Centro Médico Docente Siglo 21**, developing healthcare 
 ### Tech I work with
 
 * **Backend:** Node.js, Sails.js, Express
-* **Frontend:** React, Next.js, Tailwind
-* **Databases:** MySQL, PostgreSQL, MongoDB, SQL Server
-* **Tools:** Docker, Git, CI/CD
+* **Frontend:** React, Next.js, Tailwind CSS, React Native
+* **Databases:** PostgreSQL, MySQL, MariaDB, SQL Server, MongoDB
+* **Tools:** Git, Prisma, Power BI, Postman, Nginx, Linux, Docker
 
 ### What interests me
 
