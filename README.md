@@ -22,6 +22,5 @@ Python and Machine Learning.
 ### Contact
 
 Email: [anderlfrias@gmail.com](mailto:anderlfrias@gmail.com)
-LinkedIn: [anderlfrias](www.linkedin.com/in/anderlfrias)
-Portfolio: anderlfrias.com
-
+LinkedIn: [https://www.linkedin.com/in/anderlfrias](https://www.linkedin.com/in/anderlfrias)
+Portfolio: [https://anderlfrias.com](https://anderlfrias.com)
